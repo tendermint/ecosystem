@@ -1,4 +1,4 @@
-# ecosystem
+# Tendermint Ecosystem
 Tendermint forks geneology and directory
 
 Make a PR with your Tendermint fork to add it to this repo.
