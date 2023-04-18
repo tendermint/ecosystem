@@ -6,7 +6,7 @@ This repo will later also be imported from the github.com/decentralists/DAO.
 
 * [tendermintcore](https://github.com/tendermint/tendermint) - The latest safe version used for cosmoshub-4.
 * [tendermint2](https://github.com/tendermint/tendermint2) - The "purists" minimal Tendermint fork. Version 2. 
-* [informalsystems](https://github.com/informalsystems/tendermint) - Informal Systems fork of tendermint.
+* [cometbft](http://github.com/cometbft/cometbft) - Informal Systems stewards fork of tendermint.
 * [TODO](github.com) - Add your fork here.
 
 Besides making a PR here, there is a related survey form.
